@@ -1,0 +1,16 @@
+# Backend
+backend/.venv/
+backend/db.sqlite3
+backend/media/
+backend/**/__pycache__/
+*.py[cod]
+
+# Frontend (Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Ümumi
+.DS_Store
+Thumbs.db
+*.log
